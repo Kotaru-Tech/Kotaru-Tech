@@ -31,7 +31,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/DeqMBIuC1-EAAAAd/ishowspeed-degloving.gif"  />
+  <svg width="200" height="200">
+    <mask id="round">
+      <rect width="200" height="200" rx="30" ry="30" fill="white" />
+    </mask>
+    <image href="https://media1.tenor.com/m/DeqMBIuC1-EAAAAd/ishowspeed-degloving.gif" width="200" height="200" mask="url(#round)" />
+  </svg>
 </div>
 
 ###
