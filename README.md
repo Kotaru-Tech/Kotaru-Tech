@@ -1,14 +1,8 @@
 <h1 align="center">Hi There Friend 👋 What's up?</h1>
 
-###
-
 <p align="center">My name is Gilardino Noviano Gunawan and I'm a Student of Telkom University from Indonesia</p>
 
-###
-
 <h2 align="center">My Social Media</h2>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gilardinonovianogunawan/" target="_blank">
@@ -28,10 +22,6 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/DeqMBIuC1-EAAAAd/ishowspeed-degloving.gif"  />
 </div>
-
-###
